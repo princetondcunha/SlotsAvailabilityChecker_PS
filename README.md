@@ -66,7 +66,7 @@
    8. Click "OK" to save your task.
    9. Right-click on the task & click Run to test the setup.
       ![image](https://github.com/princetondcunha/SlotsAvailabilityChecker_PS/assets/103622011/2b4f58db-8f06-4a35-9fe0-2ab4dc70774f)
-
-
       
    Now, your PowerShell script will run at a 15-minute interval according to the schedule you've configured in Task Scheduler.
+
+   Alternatively, you can use the Scheduler.xml present in the repo and import it into your Task Scheduler. Navigate to Actions and update the path to the script in 'Add arguments (optional)'.
