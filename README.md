@@ -61,8 +61,12 @@
 
    7. Select "Start a program" as the action type. In the "Program/script" field, enter "powershell". In the "Add arguments (optional)" field, enter "-ExecutionPolicy Bypass -File "<Path>\SlotsAvailabilityChecker.ps1" 
 
-      ![image](https://github.com/princetondcunha/SlotsAvailabilityChecker_PS/assets/103622011/4c2abafc-f3c9-463e-80ff-62949ed8258b)
+      ![image](https://github.com/princetondcunha/SlotsAvailabilityChecker_PS/assets/103622011/4045c5a9-0a94-4e7d-a250-010b8e682a21)
 
    8. Click "OK" to save your task.
+   9. Right-click on the task & click Run to test the setup.
+      ![image](https://github.com/princetondcunha/SlotsAvailabilityChecker_PS/assets/103622011/2b4f58db-8f06-4a35-9fe0-2ab4dc70774f)
+
+
       
    Now, your PowerShell script will run at a 15-minute interval according to the schedule you've configured in Task Scheduler.
