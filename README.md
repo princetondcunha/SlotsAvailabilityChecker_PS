@@ -9,6 +9,8 @@
    - `SERVICE_ID`
    - `USER_IDENTIFIER`
 
+   Open the SlotsAvailabilityChecker.ps1 script and provide the full path to the .env file under $envFilePath variable.
+
 2. **Install Required Modules**
 
    Use the requirements file to install the required PowerShell modules. Run the following command:
