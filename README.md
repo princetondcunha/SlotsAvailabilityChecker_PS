@@ -1,4 +1,7 @@
-# PowerShell Script README
+# SlotsAvailabilityCheck - Powershell Script
+
+## Introduction
+This is a Powershell script that makes REST calls to Microsoft Bookings API and sends a notification on your desktop if there is a lot available. Task Scheduler can be used to run the script in intervals.
 
 ## Setup Instructions
 
